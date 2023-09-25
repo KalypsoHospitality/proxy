@@ -1,0 +1,16 @@
+{
+  "name": "heroku-proxy",
+  "version": "1.0.0",
+  "description": "Heroku Proxy Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kalypso Hospitality",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
